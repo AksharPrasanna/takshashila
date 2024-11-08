@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Takshashila"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: papers.qmd
+        text: Papers
+      - href: about.qmd
+        text: About
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

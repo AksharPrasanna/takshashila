@@ -1,0 +1,6 @@
+---
+title: "Papers"
+---
+
+* [A Pathway to AI Governance](ai_governance.qmd)
+* [An Open Tech Startegy for India](open_tech_strategy.qmd)

@@ -1,0 +1,17 @@
+{
+  "index.qmd": {
+    "index.html": "65ec7a2c"
+  },
+  "about.qmd": {
+    "about.html": "593c35ad"
+  },
+  "papers.qmd": {
+    "papers.html": "21a4fa3d"
+  },
+  "ai_governance.qmd": {
+    "ai_governance.html": "a0334208"
+  },
+  "open_tech_strategy.qmd": {
+    "open_tech_strategy.html": "9b5eca27"
+  }
+}
